@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "picture": "https://images.squarespace-cdn.com/content/v1/503cd08224ac9df583cd7c6f/1582782862842-7GKVGM05QXSTNR8RY81U/LettieriPhoto_PA_WeddingPhotography_123.jpg?format=1500w",
+      "title": "Mcconnell Silva",
+      "text": "<ReferenceError: text is not defined>",
+      "ratings": "$3,562.09"
+    },
+    {
+      "id": "2",
+      "picture": "https://images.squarespace-cdn.com/content/v1/503cd08224ac9df583cd7c6f/1510945293099-PXEBAXJZIA9933SZZTID/scranton_wedding_photographer_lettieri_pa+%2827+of+34%29.jpg?format=500w",
+      "title": "Araceli Moon",
+      "text": "<ReferenceError: text is not defined>",
+      "ratings": "$3,251.19"
+    },
+    {
+      "id": "3",
+      "picture": "https://images.squarespace-cdn.com/content/v1/503cd08224ac9df583cd7c6f/1507922764737-G0X9S8N9R8SX3IDHG4EX/scranton_wedding_photographer_lettieri_pa+%2819+of+20%29.jpg?format=500w",
+      "title": "Joyce Cole",
+      "text": "<ReferenceError: text is not defined>",
+      "ratings": "$3,716.50"
+    },
+    {
+      "id": "4",
+      "picture": "https://images.squarespace-cdn.com/content/v1/503cd08224ac9df583cd7c6f/1504277883806-2FG71E4MI89OQ1ALQF6U/Bernero-Brigliadoro-0511.jpg?format=500w",
+      "title": "Everett Schultz",
+      "text": "<ReferenceError: text is not defined>",
+      "ratings": "$3,074.20"
+    },
+    {
+      "id": "5",
+      "picture": "https://images.squarespace-cdn.com/content/v1/503cd08224ac9df583cd7c6f/1509558265001-2I6DZ8ZIROGO7VA2MKJU/scranton_wedding_photographer_lettieri_pa+%2817+of+30%29.jpg?format=500w",
+      "title": "Ramona Boone",
+      "text": "<ReferenceError: text is not defined>",
+      "ratings": "$3,703.86"
+    },
+    {
+      "id": "6",
+      "picture": "https://images.squarespace-cdn.com/content/v1/503cd08224ac9df583cd7c6f/1583254272690-6WQRDYDKGWUU7KWQW9QM/LettieriPhoto_PA_WeddingPhotography_17.jpg?format=1500w",
+      "title": "Becker Greer",
+      "text": "<ReferenceError: text is not defined>",
+      "ratings": "$3,025.62"
+    }
+  ]
